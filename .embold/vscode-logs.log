@@ -1,0 +1,12 @@
+2023-03-27 13:12:40 info: tempDirectory:c:\Users\User\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-03-27 13:12:40 info: Extraction complete for source: c:\Users\User\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\User\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-03-27 13:12:40 info: Congratulations, your extension "Embold" is now active!
+2023-03-27 19:53:17 info: tempDirectory:c:\Users\User\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-03-27 19:53:17 info: Extraction complete for source: c:\Users\User\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\User\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-03-27 19:53:17 info: Congratulations, your extension "Embold" is now active!
+2023-03-27 21:35:45 info: file:///e%3A/geekTrust/MyCode/admin-ui/node_modules/fsevents
+2023-03-27 21:35:45 error: SQLITE_ERROR: no such table: issues
+2023-03-27 21:44:27 info: file:///e%3A/geekTrust/MyCode/admin-ui/node_modules/fsevents
+2023-03-27 21:44:27 error: SQLITE_ERROR: no such table: issues
+2023-03-27 22:18:02 info: file:///e%3A/geekTrust/MyCode/admin-ui/src/components/Table.js
+2023-03-27 22:18:02 error: SQLITE_ERROR: no such table: issues
