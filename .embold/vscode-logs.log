@@ -10,3 +10,16 @@
 2023-03-27 21:44:27 error: SQLITE_ERROR: no such table: issues
 2023-03-27 22:18:02 info: file:///e%3A/geekTrust/MyCode/admin-ui/src/components/Table.js
 2023-03-27 22:18:02 error: SQLITE_ERROR: no such table: issues
+2023-03-28 11:45:51 info: tempDirectory:c:\Users\User\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-03-28 11:45:51 info: Extraction complete for source: c:\Users\User\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\User\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-03-28 11:45:51 info: Congratulations, your extension "Embold" is now active!
+2023-03-28 11:50:10 info: file:///e%3A/geekTrust/MyCode/admin-ui/.git/index.lock
+2023-03-28 11:50:10 error: SQLITE_ERROR: no such table: issues
+2023-03-28 11:50:16 info: file:///e%3A/geekTrust/MyCode/admin-ui/.git/index.lock
+2023-03-28 11:50:16 error: SQLITE_ERROR: no such table: issues
+2023-03-28 11:50:52 info: file:///e%3A/geekTrust/MyCode/admin-ui/.git/logs/refs/heads/master
+2023-03-28 11:50:52 error: SQLITE_ERROR: no such table: issues
+2023-03-28 11:50:52 info: file:///e%3A/geekTrust/MyCode/admin-ui/.git/refs/heads/master
+2023-03-28 11:50:52 error: SQLITE_ERROR: no such table: issues
+2023-03-28 11:55:18 info: file:///e%3A/geekTrust/MyCode/admin-ui/.git/config.lock
+2023-03-28 11:55:18 error: SQLITE_ERROR: no such table: issues
