@@ -23,3 +23,9 @@
 2023-03-28 11:50:52 error: SQLITE_ERROR: no such table: issues
 2023-03-28 11:55:18 info: file:///e%3A/geekTrust/MyCode/admin-ui/.git/config.lock
 2023-03-28 11:55:18 error: SQLITE_ERROR: no such table: issues
+2023-03-28 12:01:48 info: file:///e%3A/geekTrust/MyCode/admin-ui/.git/packed-refs.lock
+2023-03-28 12:01:48 info: file:///e%3A/geekTrust/MyCode/admin-ui/.git/refs/remotes/origin
+2023-03-28 12:01:48 info: file:///e%3A/geekTrust/MyCode/admin-ui/.git/logs/refs/remotes/origin
+2023-03-28 12:01:48 error: SQLITE_ERROR: no such table: issues
+2023-03-28 12:01:48 error: SQLITE_ERROR: no such table: issues
+2023-03-28 12:01:48 error: SQLITE_ERROR: no such table: issues
